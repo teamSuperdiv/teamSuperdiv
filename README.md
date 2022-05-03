@@ -37,9 +37,9 @@ I am a student and (to be) web developer <img src="https://media.giphy.com/media
 ---
 
 ### :bar_chart: My Stats:
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=teamSuperdiv&showicons=true&count_private=true&theme=slateorange&bg_color=00000000)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=teamSuperdiv&showicons=true&count_private=true&theme=slateorange&bg_color=0d1117)]()
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=teamSuperdiv&theme=dark&background=00000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=teamSuperdiv&theme=dark&background=0d1117)](https://git.io/streak-stats)
 
 
 
