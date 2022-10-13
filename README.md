@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 I am a student and (to be) web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany :eu:
-- 🔭 I’m currently working on a fullstack React App (with a friend) and several other, smaller projects
+- 🔭 I’m currently working as an intern in software development @Bosch
 - 🌱 Currently going through The Odin Project to steady my javascript and frontend skills
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything really
