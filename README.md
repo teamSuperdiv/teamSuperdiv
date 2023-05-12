@@ -5,8 +5,7 @@
 
 ### :man_technologist: About me:
 I am a student and fullstack web developer (to be) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany :eu:
-- 🔭 I’m currently working as an intern in software development @Bosch
-- 🌱 Currently going through The Odin Project to steady my javascript and frontend skills
+- 🔭 Currently working as working student in software development @Bosch
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything really
 - 📫 How to reach me: team@superdiv.de
